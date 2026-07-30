@@ -1,1 +1,2 @@
-This is text from MAIN branch
+
+This is text from MAIN branch and DEVELOP branch combined!
